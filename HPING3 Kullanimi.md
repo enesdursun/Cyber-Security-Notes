@@ -25,17 +25,17 @@ Uygulama hakkında detaylı bilgi edinmek ve genel parametreleri öğrenmek içi
 
 **_Önemli parametrelerin kullanımı:_**
 
-+ `-s`: syn paketi gönderir
-+ `-p`: hedef port numarası
-+ `-c`: gönderilecek paket sayısı
-+ `-d`: gönderilecek veri boyutu
-+ `–udp`: udp protokolünde paket yollar
-+ `–tcp`: tcp protokolünde paket yollar
-+ `–fast`: saniyede 10 paket gönderir
-+ `–faster`: saniyede 100 paket gönderir
-+ `–flood`: paketleri hızlı bir şekilde gönderir.
-+ `-a`: sahte ıp adreslerinde paketler gönderir.
-+ `–rand-source`: rastgele ıp adresleri üzerinden paketler gönderir.
++ `-s`: Syn paketi gönderir
++ `-p`: Hedef port numarası
++ `-c`: Gönderilecek paket sayısı
++ `-d`: Gönderilecek veri boyutu
++ `–udp`: Udp protokolünde paket yollar
++ `–tcp`: Tcp protokolünde paket yollar
++ `–fast`: Saniyede 10 paket gönderir
++ `–faster`: Saniyede 100 paket gönderir
++ `–flood`: Paketleri hızlı bir şekilde gönderir.
++ `-a`: Sahte IP adreslerinde paketler gönderir.
++ `–rand-source`: Rastgele IP adresleri üzerinden paketler gönderir.
 
 **_Bazı kısaltmalar ve açıklamaları:_**
 
@@ -45,7 +45,7 @@ Uygulama hakkında detaylı bilgi edinmek ve genel parametreleri öğrenmek içi
 + `DF`: Parçalama baytının aktifliği 
 + `id`: Uniq bilgisi
 + `sport`: Paketlerin göderilgiği port
-+ `flags`: TCP bayrağı
++ `flags`: TCP bayrağı(flag'i)
 + `seq`: Paketlerin sıra numarası
 + `win`: Win(pencere) paket boyutu
 + `rtt`: Milisaniye cinsinden süre
