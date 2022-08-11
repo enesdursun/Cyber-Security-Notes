@@ -136,7 +136,9 @@ Uygulama hakkında detaylı bilgi edinmek ve genel parametreleri öğrenmek içi
 
 ### Hping3 ile bu örnek senaryolar çeşitlendirilebilir, çoğaltılabilir. Yanında wireshark gibi yardımcı programlar kullanılarak daha işlevli hale getirilebilir.
 
+---
 
+:link: [Linkedin](https://www.linkedin.com/in/enesdursun/) :link: [GitHub](https://github.com/enesdursun)
 
 
 
